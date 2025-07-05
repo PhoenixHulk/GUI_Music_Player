@@ -1,0 +1,399 @@
+10
+Greatest Hits
+Alan Walker
+0
+images/alan_walker.png
+3
+Faded
+music_files/faded.mp3
+images/faded.jpg
+Alone
+music_files/alone.mp3
+images/alone.jpg
+Lily
+music_files/lily.mp3
+images/lily.jpg
+The Power of Love
+Celine-Dion
+1
+images/the_power_of_love.jpg
+28
+The Power Of Love
+music_files/the_power_of_love.mp3
+images/the_power_of_love.jpg
+My Heart Will Go On
+music_files/my_heart_will_go_on.mp3
+images/my_heart_will_go_on.jpg
+I'm Alive
+music_files/i'm_alive.mp3
+images/i'm_alive.png
+A Shoulder to Cry On
+music_files/a_shoulder_to_cry_on.mp3
+images/the_power_of_love.jpg
+I Do It For You
+music_files/i_do_it_for_you.mp3
+images/the_power_of_love.jpg
+When You Believe
+music_files/when_you_believe.mp3
+images/the_power_of_love.jpg
+My Love
+music_files/my_love.mp3
+images/the_power_of_love.jpg
+Love Is All Around
+music_files/love_is_all_around.mp3
+images/the_power_of_love.jpg
+Nothing To Lose
+music_files/nothing_to_lose.mp3
+images/the_power_of_love.jpg
+Sail Over Seven Seas
+music_files/sail_over_seven_seas.mp3
+images/the_power_of_love.jpg
+Wonderful Tonight
+music_files/wonderful_tonight.mp3
+images/the_power_of_love.jpg
+When You Say Nothing At All
+music_files/when_you_say_nothing_at_all.mp3
+images/the_power_of_love.jpg
+Unchained Melody
+music_files/unchained_melody.mp3
+images/the_power_of_love.jpg
+Spending My Time
+music_files/spending_my_time.mp3
+images/the_power_of_love.jpg
+First Love
+music_files/first_love.mp3
+images/the_power_of_love.jpg
+Rhythm of The Rain
+music_files/rhythm_of_the_rain.mp3
+images/the_power_of_love.jpg
+The End of The World
+music_files/the_end_of_the_world.mp3
+images/the_power_of_love.jpg
+Listen to your Heart
+music_files/listen_to_your_heart.mp3
+images/the_power_of_love.jpg
+You Took my Heart Away
+music_files/you_took_my_heart_away.mp3
+images/the_power_of_love.jpg
+Endless Love
+music_files/endless_love.mp3
+images/the_power_of_love.jpg
+Ehternal Flames
+music_files/ethernal_flames.mp3
+images/the_power_of_love.jpg
+All Out of Love
+music_files/all_out_of_love.mp3
+images/the_power_of_love.jpg
+Women in Love
+music_files/women_in_love.mp3
+images/the_power_of_love.jpg
+Pretty Boy
+music_files/pretty_boy.mp3
+images/the_power_of_love.jpg
+Sacrifice
+music_files/sacrifice.mp3
+images/the_power_of_love.jpg
+I Don't Wanna Talk About It
+music_files/i_don't_wanna_talk_about_it.mp3
+images/the_power_of_love.jpg
+If Love is Blind
+music_files/if_love_is_blind.mp3
+images/the_power_of_love.jpg
+Right Here Waiting
+music_files/right_here_waiting.mp3
+images/the_power_of_love.jpg
+Bad
+Michael Jackson
+1
+images/MJ_bad.jpg
+11
+Bad
+music_files/bad.mp3
+images/MJ_bad.jpg
+The Way You Make Me Feel
+music_files/the_way_you_make_me_feel.mp3
+images/MJ_bad.jpg
+Speed Demon
+music_files/speed_demon.mp3
+images/MJ_bad.jpg
+Liberian Girl
+music_files/liberian_girl.mp3
+images/MJ_bad.jpg
+Just Good Friends
+music_files/just_good_friends.mp3
+images/MJ_bad.jpg
+Another Part of Me
+music_files/another_part_of_me.mp3
+images/MJ_bad.jpg
+Man In the Mirror
+music_files/man_in_the_mirror.mp3
+images/MJ_bad.jpg
+I Just Can't Stop Loving You
+music_files/i_just_can't_stop_loving_you.mp3
+images/MJ_bad.jpg
+Dirty Diana
+music_files/dirty_diana.mp3
+images/MJ_bad.jpg
+Smooth Criminal
+music_files/smooth_criminal.mp3
+images/MJ_bad.jpg
+Leave Me Alone
+music_files/leave_me_alone.mp3
+images/MJ_bad.jpg
+Greatest Hits
+Bruno Mars
+0
+images/bruno_mars.jpg
+11
+Grenade
+music_files/grenade.mp3
+images/bruno_mars.jpg
+Just The Way You Are
+music_files/just_the_way_you_are.mp3
+images/bruno_mars.jpg
+Our First Time
+music_files/our_first_time.mp3
+images/bruno_mars.jpg
+Runaway Baby
+music_files/runaway_baby.mp3
+images/bruno_mars.jpg
+The Lazy Song
+music_files/the_lazy_song.mp3
+images/bruno_mars.jpg
+Marry You
+music_files/marry_you.mp3
+images/bruno_mars.jpg
+Talking To The Moon
+music_files/talking_to_the_moon.mp3
+images/bruno_mars.jpg
+Liquor Store Blues
+music_files/liquor_store_blues.mp3
+images/bruno_mars.jpg
+Count On Me
+music_files/count_on_me.mp3
+images/bruno_mars.jpg
+The Other Side
+music_files/the_other_side.mp3
+images/bruno_mars.jpg
+Just The Way You Are (Remix)
+music_files/just_the_way_you_are_remix.mp3
+images/bruno_mars.jpg
+Mr.Bad Guy
+Freddie Mercury
+4
+images/mr.bad_guy.jpg
+4
+Let's Turn It On
+music_files/let's_turn_it_on.mp3
+images/let's_turn_it_on.jpg
+Made In Heaven
+music_files/made_in_heaven.mp3
+images/mr.bad_guy.jpg
+I Was Born To Love You
+music_files/i_was_born_to_love_you.mp3
+images/mr.bad_guy.jpg
+Mr.Bad Guy
+music_files/mr.bad_guy.mp3
+images/mr.bad_guy.jpg
+Best Of Elton John
+Elton John
+0
+images/elton_john.jpg
+20
+Island Girl
+music_files/island_girl.mp3
+images/elton_john.jpg
+Bennie And The Jets
+music_files/bennie_and_the_jets.mp3
+images/elton_john.jpg
+Someone Saved My Life Tonight
+music_files/someone_saved_my_life_tonight.mp3
+images/elton_john.jpg
+Circle Of Life
+music_files/circle_of_life.mp3
+images/elton_john.jpg
+Can You Feel The Love Tonight
+music_files/can_you_feel_the_love_tonight.mp3
+images/elton_john.jpg
+I'm Still Standing
+music_files/i'm_still_standing.mp3
+images/elton_john.jpg
+Saturday Night's Alright For Fighting
+music_files/saturday_night's_alright_for_fighting.mp3
+images/elton_john.jpg
+Don't Let The Sun Go Down On Me
+music_files/don't_let_the_sun_go_down_on_me.mp3
+images/elton_john.jpg
+Philadelphia Freedom
+music_files/philadelphia_freedom.mp3
+images/elton_john.jpg
+Candle In the Wind
+music_files/candle_in_the_wind.mp3
+images/elton_john.jpg
+Goodbye Yellow Brick Road
+music_files/goodbye_yellow_brick_road.mp3
+images/elton_john.jpg
+Lucy In The Sky With Diamonds
+music_files/lucy_in_the_sky_with_diamonds.mp3
+images/elton_john.jpg
+Pinball Wizard
+music_files/pinball_wizard.mp3
+images/elton_john.jpg
+Tiny Dancer
+music_files/tiny_dancer.mp3
+images/elton_john.jpg
+I Guess That's Why They Call It The Blues
+music_files/i_guess_that's_why_they_call_it_the_blues.mp3
+images/elton_john.jpg
+Honky Cat
+music_files/honky_cat.mp3
+images/elton_john.jpg
+Sad Songs (Say So Much)
+music_files/sad_songs_say_so_much.mp3
+images/elton_john.jpg
+Daniel
+music_files/daniel.mp3
+images/elton_john.jpg
+Crocodile Rock
+music_files/crocodile_rock.mp3
+images/elton_john.jpg
+Rocket Man
+music_files/rocket_man.mp3
+images/elton_john.jpg
+Hit Me Hard and Soft
+Billie Eilish
+1
+images/billie_eilish.jpg
+10
+Skinny
+music_files/skinny.mp3
+images/billie_eilish.jpg
+Lunch
+music_files/lunch.mp3
+images/billie_eilish.jpg
+Chihiro
+music_files/chihiro.mp3
+images/billie_eilish.jpg
+Birds Of A Feather
+music_files/birds_of_a_feather.mp3
+images/billie_eilish.jpg
+Wildflower
+music_files/wildflower.mp3
+images/billie_eilish.jpg
+The Greatest
+music_files/the_greatest.mp3
+images/billie_eilish.jpg
+L’amour De Ma Vie
+music_files/l'amour_de_ma_vie.mp3
+images/billie_eilish.jpg
+The Diner
+music_files/the_diner.mp3
+images/billie_eilish.jpg
+Bittersuite
+music_files/bittersuite.mp3
+images/billie_eilish.jpg
+Blue
+music_files/blue.mp3
+images/billie_eilish.jpg
+Smile
+Katy Perry
+1
+images/katy_perry.png
+12
+Never Really Over
+music_files/never_really_over.mp3
+images/katy_perry.png
+Cry About It Later
+music_files/cry_about_it_later.mp3
+images/katy_perry.png
+Teary Eyes
+music_files/teary_eyes.mp3
+images/katy_perry.png
+Daisies
+music_files/daisies.mp3
+images/katy_perry.png
+Resilient
+music_files/resilient.mp3
+images/katy_perry.png
+Not The End of The World
+music_files/not_the_end_of_the_world.mp3
+images/katy_perry.png
+Smile
+music_files/smile.mp3
+images/katy_perry.png
+Champagne Problems
+music_files/champagne_problems.mp3
+images/katy_perry.png
+Tucked
+music_files/tucked.mp3
+images/katy_perry.png
+Harleys In Hawaii
+music_files/harleys_in_hawaii.mp3
+images/katy_perry.png
+Only Love
+music_files/only_love.mp3
+images/katy_perry.png
+What Makes A Woman
+music_files/what_makes_a_woman.mp3
+images/katy_perry.png
+Equals (=)
+Ed Sheeran
+2
+images/ed_sheeran.jpg
+14
+Tides
+music_files/tides.mp3
+images/ed_sheeran.jpg
+Shivers
+music_files/shivers.mp3
+images/ed_sheeran.jpg
+First Times
+music_files/first_time.mp3
+images/ed_sheeran.jpg
+Bad Habits
+music_files/bad_habits.mp3
+images/ed_sheeran.jpg
+Overpass Graffiti
+music_files/overpass_graffiti.mp3
+images/ed_sheeran.jpg
+The Joker And The Queen
+music_files/the_joker_and_the_queen.mp3
+images/ed_sheeran.jpg
+Leave Your Life
+music_files/leave_your_life.mp3
+images/ed_sheeran.jpg
+Collide
+music_files/collide.mp3
+images/ed_sheeran.jpg
+2step
+music_files/2step.mp3
+images/ed_sheeran.jpg
+Stop The Rain
+music_files/stop_the_rain.mp3
+images/ed_sheeran.jpg
+Love In Slow Motion
+music_files/love_in_slow_motion.mp3
+images/ed_sheeran.jpg
+Visiting Hours
+music_files/visiting_hours.mp3
+images/ed_sheeran.jpg
+Sandman
+music_files/sandman.mp3
+images/ed_sheeran.jpg
+Be Right Now
+music_files/be_right_now.mp3
+images/ed_sheeran.jpg
+Heaven & Hell
+Ava Max
+1
+images/ava_max.png
+3
+So Am I
+music_files/so_am_i.mp3
+images/ava_max.png
+Kings And Queens
+music_files/kings_and_queens.mp3
+images/ava_max.png
+Sweet But Psycho
+music_files/sweet_but_psycho.mp3
+images/ava_max.png
